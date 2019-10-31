@@ -3,7 +3,7 @@
 - 技术栈：`ts+vue-cli3.0+vuex-class+vue-property-decorator`
 - 后端是一位大佬用node写的。<https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi>
 - 使用方式：点击左边导航栏，进行登录，点击每日推荐模块（只实现了这一个板块，这个板块只能登录才能获取接口数据），里面的歌曲可以播放。
-
+- 项目演示：101.132.106.94:3000
 使用方式：先下载后端大佬的项目，启动服务。然后下载本项目，执行yarn，然后执行yarn serve，用浏览器打开localhost:8080即可
 
 ## 一. 遇到的问题
